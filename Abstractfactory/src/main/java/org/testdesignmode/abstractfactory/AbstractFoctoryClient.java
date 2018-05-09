@@ -2,7 +2,7 @@ package org.testdesignmode.abstractfactory;
 
 import org.testdesignmode.abstractfactory.intelImpl.IntelFactory;
 
-public class Client {
+public class AbstractFoctoryClient {
     public static void main(String[]args){
         //创建装机工程师对象
         ComputerEngineer cf = new ComputerEngineer();

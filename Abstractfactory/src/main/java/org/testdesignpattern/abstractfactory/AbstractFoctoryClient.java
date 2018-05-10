@@ -1,6 +1,6 @@
-package org.testdesignmode.abstractfactory;
+package org.testdesignpattern.abstractfactory;
 
-import org.testdesignmode.abstractfactory.intelImpl.IntelFactory;
+import org.testdesignpattern.abstractfactory.intelImpl.IntelFactory;
 
 public class AbstractFoctoryClient {
     public static void main(String[]args){

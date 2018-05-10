@@ -1,4 +1,4 @@
-package org.testdesignmode.abstractfactory;
+package org.testdesignpattern.abstractfactory;
 
 public interface AbstractFactory {
     /**

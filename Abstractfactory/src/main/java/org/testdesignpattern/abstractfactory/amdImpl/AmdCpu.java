@@ -1,6 +1,6 @@
-package org.testdesignmode.abstractfactory.amdImpl;
+package org.testdesignpattern.abstractfactory.amdImpl;
 
-import org.testdesignmode.abstractfactory.Cpu;
+import org.testdesignpattern.abstractfactory.Cpu;
 
 /**
  * AMD Cpu

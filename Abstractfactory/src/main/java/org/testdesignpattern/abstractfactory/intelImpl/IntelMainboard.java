@@ -1,6 +1,6 @@
-package org.testdesignmode.abstractfactory.intelImpl;
+package org.testdesignpattern.abstractfactory.intelImpl;
 
-import org.testdesignmode.abstractfactory.Mainboard;
+import org.testdesignpattern.abstractfactory.Mainboard;
 
 public class IntelMainboard implements Mainboard {
 	

@@ -1,6 +1,6 @@
-package org.testdesignmode.abstractfactory.amdImpl;
+package org.testdesignpattern.abstractfactory.amdImpl;
 
-import org.testdesignmode.abstractfactory.Mainboard;
+import org.testdesignpattern.abstractfactory.Mainboard;
 
 public class AmdMainboard implements Mainboard {
 

@@ -1,6 +1,6 @@
-package org.testdesignmode.factorymethod.htmlImpl;
+package org.testdesignpattern.factorymethod.htmlImpl;
 
-import org.testdesignmode.factorymethod.ExportFile;
+import org.testdesignpattern.factorymethod.ExportFile;
 
 public class ExportStandardHtmlFile implements ExportFile {
     @Override

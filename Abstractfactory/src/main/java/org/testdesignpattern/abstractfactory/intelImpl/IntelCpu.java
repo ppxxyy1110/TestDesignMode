@@ -1,6 +1,6 @@
-package org.testdesignmode.abstractfactory.intelImpl;
+package org.testdesignpattern.abstractfactory.intelImpl;
 
-import org.testdesignmode.abstractfactory.Cpu;
+import org.testdesignpattern.abstractfactory.Cpu;
 
 /**
  * Intel Cpu

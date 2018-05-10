@@ -1,6 +1,6 @@
-package org.testdesignmode.factorymethod.pdfImpl;
+package org.testdesignpattern.factorymethod.pdfImpl;
 
-import org.testdesignmode.factorymethod.ExportFile;
+import org.testdesignpattern.factorymethod.ExportFile;
 
 public class ExportStandardPdfFile implements ExportFile{
     @Override

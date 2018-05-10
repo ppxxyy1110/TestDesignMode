@@ -1,6 +1,6 @@
-package org.testdesignmode.factorymethod;
+package org.testdesignpattern.factorymethod;
 
-import org.testdesignmode.factorymethod.htmlImpl.ExportHtmlFactory;
+import org.testdesignpattern.factorymethod.htmlImpl.ExportHtmlFactory;
 
 /**
  * 客户端角色类源代码

@@ -1,7 +1,7 @@
-package org.testdesignmode.factorymethod.pdfImpl;
+package org.testdesignpattern.factorymethod.pdfImpl;
 
-import org.testdesignmode.factorymethod.ExportFactory;
-import org.testdesignmode.factorymethod.ExportFile;
+import org.testdesignpattern.factorymethod.ExportFactory;
+import org.testdesignpattern.factorymethod.ExportFile;
 
 public class ExportPdfFactory implements ExportFactory {
 

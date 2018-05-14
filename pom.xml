@@ -7,5 +7,6 @@
   <modules>
   	<module>Abstractfactory</module>
   	<module>FactoryMethod</module>
+  	<module>Adapter</module>
   </modules>
 </project>

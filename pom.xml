@@ -8,5 +8,6 @@
   	<module>Abstractfactory</module>
   	<module>FactoryMethod</module>
   	<module>Adapter</module>
+  	<module>Singleton</module>
   </modules>
 </project>
